@@ -1,0 +1,31 @@
+{
+  "name": "gulpstart",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnastasiiaIlina/gulpStart.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnastasiiaIlina/gulpStart/issues"
+  },
+  "homepage": "https://github.com/AnastasiiaIlina/gulpStart#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^5.0.0",
+    "gulp-cssnano": "^2.1.3",
+    "gulp-imagemin": "^4.1.0",
+    "gulp-sass": "^4.0.1"
+  },
+  "dependencies": {
+    "browser-sync": "^2.23.7",
+    "del": "^3.0.0",
+    "gulp-htmlmin": "^4.0.0"
+  }
+}
